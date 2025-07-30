@@ -1,0 +1,75 @@
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Version: 116.0
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Maintainer:  Karen/あけみ, Linus Yang <karen@akemi.ai>
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
+Size: 73458
+MD5sum: 310a874c9b657fe33ad31d4be54e2d65
+SHA1: c6cba81a82f1b71742bd5c01ea91266f808de9ed
+SHA256: 2f8f47fc72e95e56a40b7d9afac8a30dfb24e9b9e773399ada3e459c4a020e98
+
+Package: ai.akemi.appinst
+Name: appinst
+Version: 2.1.1
+Architecture: iphoneos-arm
+Description: A commandline IPA app installer
+Maintainer:  Karen/あけみ, Linus Yang <karen@akemi.ai>
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Filename: debs/ai.akemi.appinst_2.1.1_iphoneos-arm.deb
+Size: 60796
+MD5sum: 8758a64bf439559e11880c4f16bc005d
+SHA1: 82ca1b4dbb76ac3d7a304e8457a95cb6d016be4a
+SHA256: 2d5c4f0e96b1c58cb3d02aebd04692ec2c762eb2ca9a5f23ff0e453f10196fd0
+
+Package: ai.akemi.appsyncunified.rootless
+Name: AppSync Unified (rootless)
+Version: 116.0
+Architecture: iphoneos-arm64
+Description: Enables the ability to install unsigned/fakesigned iOS applications. Rootless
+Maintainer:  Karen/あけみ, Linus Yang <karen@akemi.ai>
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm_rootless.deb
+Size: 73454
+MD5sum: 2e0aa18a5fc53c987401213ce5363992
+SHA1: 98b348fa810f53476c23bb39dd7d152defc7a7c6
+SHA256: 86ffe9f5e151034a6f60e7cfac3281d5ced2cddf44db63f707a537b42f373b08
+
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Version: 116.0
+Architecture: iphoneos-arm64
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Maintainer:  Karen/あけみ, Linus Yang <karen@akemi.ai>
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.deb
+Size: 73458
+MD5sum: 310a874c9b657fe33ad31d4be54e2d65
+SHA1: c6cba81a82f1b71742bd5c01ea91266f808de9ed
+SHA256: 2f8f47fc72e95e56a40b7d9afac8a30dfb24e9b9e773399ada3e459c4a020e98
+
+Package: ai.akemi.appinst
+Name: appinst
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Description: A commandline IPA app installer
+Maintainer:  Karen/あけみ, Linus Yang <karen@akemi.ai>
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Filename: debs/ai.akemi.appinst_2.1.1_iphoneos-arm.deb
+Size: 60796
+MD5sum: 8758a64bf439559e11880c4f16bc005d
+SHA1: 82ca1b4dbb76ac3d7a304e8457a95cb6d016be4a
+SHA256: 2d5c4f0e96b1c58cb3d02aebd04692ec2c762eb2ca9a5f23ff0e453f10196fd0
+
